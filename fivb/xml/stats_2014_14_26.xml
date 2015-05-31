@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Match No="26" Version="156">
+  <TeamA Code="TUR">
+    <Captain>3</Captain>
+    <Set No="5">
+      <Statistics>
+        <Team />
+        <Player NoShirt="2" />
+        <Player NoShirt="3" />
+        <Player NoShirt="4" />
+        <Player NoShirt="5" />
+        <Player NoShirt="7" />
+        <Player NoShirt="10" />
+        <Player NoShirt="11" />
+        <Player NoShirt="12" />
+        <Player NoShirt="13" />
+        <Player NoShirt="14" />
+        <Player NoShirt="18" />
+        <Player />
+      </Statistics>
+    </Set>
+  </TeamA>
+  <TeamB Code="SVK">
+    <Captain>3</Captain>
+    <Set No="5">
+      <Statistics>
+        <Team />
+        <Player NoShirt="1" />
+        <Player NoShirt="2" />
+        <Player NoShirt="3" />
+        <Player NoShirt="5" />
+        <Player NoShirt="6" />
+        <Player NoShirt="8" />
+        <Player NoShirt="12" />
+        <Player NoShirt="14" />
+        <Player NoShirt="15" />
+        <Player NoShirt="18" />
+        <Player NoShirt="19" />
+        <Player />
+      </Statistics>
+    </Set>
+  </TeamB>
+</Match>

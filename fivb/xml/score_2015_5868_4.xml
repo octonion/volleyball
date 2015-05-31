@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Match No="4" Version="1">
+  <TeamA Code="BRA">
+    <Set No="5" />
+  </TeamA>
+  <TeamB Code="SRB">
+    <Set No="5" />
+  </TeamB>
+</Match>
