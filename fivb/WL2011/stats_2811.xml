@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Match No="68" Version="171">
+  <Status>2</Status>
+  <Length Set1="24" Set2="28" Set3="25" />
+  <TeamA Code="ITA">
+    <Captain>11</Captain>
+    <Score>3</Score>
+    <Set No="1">
+      <Score>25</Score>
+      <Roster p4="6" p5="7" p3="9" p6="11" p1="12" p2="13" l1="4" />
+      <Statistics>
+        <Team OppError="4" />
+        <Player NoShirt="4" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="5" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="6" AtkPoint="1" BlkPoint="1" SrvPoint="0" />
+        <Player NoShirt="7" AtkPoint="4" BlkPoint="1" SrvPoint="0" />
+        <Player NoShirt="8" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="9" AtkPoint="4" BlkPoint="1" SrvPoint="2" />
+        <Player NoShirt="10" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="11" AtkPoint="3" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="12" AtkPoint="0" BlkPoint="2" SrvPoint="1" />
+        <Player NoShirt="13" AtkPoint="0" BlkPoint="1" SrvPoint="0" />
+        <Player NoShirt="18" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="20" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+      </Statistics>
+    </Set>
+    <Set No="2">
+      <Score>25</Score>
+      <Roster p5="6" p6="7" p4="9" p1="11" p2="12" p3="13" r6="20" l1="4" />
+      <Statistics>
+        <Team OppError="9" />
+        <Player NoShirt="4" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="5" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="6" AtkPoint="1" BlkPoint="1" SrvPoint="0" />
+        <Player NoShirt="7" AtkPoint="2" BlkPoint="1" SrvPoint="0" />
+        <Player NoShirt="8" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="9" AtkPoint="2" BlkPoint="0" SrvPoint="1" />
+        <Player NoShirt="10" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="11" AtkPoint="1" BlkPoint="2" SrvPoint="0" />
+        <Player NoShirt="12" AtkPoint="4" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="13" AtkPoint="0" BlkPoint="0" SrvPoint="1" />
+        <Player NoShirt="18" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="20" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+      </Statistics>
+    </Set>
+    <Set No="3">
+      <Score>25</Score>
+      <Roster p4="6" p5="7" p3="9" p6="11" p1="12" p2="13" r3="8" l1="4" />
+      <Statistics>
+        <Team OppError="8" />
+        <Player NoShirt="4" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="5" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="6" AtkPoint="1" BlkPoint="1" SrvPoint="0" />
+        <Player NoShirt="7" AtkPoint="5" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="8" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="9" AtkPoint="6" BlkPoint="0" SrvPoint="1" />
+        <Player NoShirt="10" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="11" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="12" AtkPoint="1" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="13" AtkPoint="1" BlkPoint="0" SrvPoint="1" />
+        <Player NoShirt="18" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="20" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+      </Statistics>
+    </Set>
+  </TeamA>
+  <TeamB Code="KOR">
+    <Captain>3</Captain>
+    <Score>0</Score>
+    <Set No="1">
+      <Score>18</Score>
+      <Roster p4="2" p3="4" p2="7" p1="12" p6="13" p5="18" r1="20" r6="19" r2="9" l1="5" />
+      <Statistics>
+        <Team OppError="2" />
+        <Player NoShirt="2" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="3" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="4" AtkPoint="5" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="5" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="7" AtkPoint="1" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="9" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="10" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="12" AtkPoint="1" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="13" AtkPoint="3" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="18" AtkPoint="3" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="19" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="20" AtkPoint="1" BlkPoint="2" SrvPoint="0" />
+      </Statistics>
+    </Set>
+    <Set No="2">
+      <Score>21</Score>
+      <Roster p3="2" p2="4" p1="7" p5="13" p4="18" p6="20" r6="12" r5="19" r1="9" l1="5" />
+      <Statistics>
+        <Team OppError="5" />
+        <Player NoShirt="2" AtkPoint="0" BlkPoint="0" SrvPoint="1" />
+        <Player NoShirt="3" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="4" AtkPoint="4" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="5" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="7" AtkPoint="2" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="9" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="10" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="12" AtkPoint="1" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="13" AtkPoint="3" BlkPoint="0" SrvPoint="1" />
+        <Player NoShirt="18" AtkPoint="3" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="19" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="20" AtkPoint="1" BlkPoint="0" SrvPoint="0" />
+      </Statistics>
+    </Set>
+    <Set No="3">
+      <Score>20</Score>
+      <Roster p3="2" p2="4" p1="7" p5="13" p4="18" p6="20" r2="19" r5="9" l1="5" />
+      <Statistics>
+        <Team OppError="6" />
+        <Player NoShirt="2" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="3" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="4" AtkPoint="2" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="5" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="7" AtkPoint="2" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="9" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="10" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="12" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="13" AtkPoint="3" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="18" AtkPoint="3" BlkPoint="2" SrvPoint="0" />
+        <Player NoShirt="19" AtkPoint="0" BlkPoint="0" SrvPoint="0" />
+        <Player NoShirt="20" AtkPoint="2" BlkPoint="0" SrvPoint="0" />
+      </Statistics>
+    </Set>
+  </TeamB>
+</Match>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Match No="50" Version="166">
+  <Status>1</Status>
+  <TeamA Code="CHN" />
+  <TeamB Code="DOM">
+    <Set No="1" />
+  </TeamB>
+</Match>

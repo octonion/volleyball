@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Match No="50" Version="166">
+  <Status>1</Status>
+  <TeamA Code="CHN">
+    <Captain>8</Captain>
+  </TeamA>
+  <TeamB Code="DOM">
+    <Captain>10</Captain>
+    <CurrentLineUp p1="9" p2="15" p3="5" p4="7" p5="17" p6="6" />
+    <Set No="1">
+      <Roster p1="9" p2="15" p3="5" p4="7" p5="17" p6="6" />
+    </Set>
+  </TeamB>
+</Match>

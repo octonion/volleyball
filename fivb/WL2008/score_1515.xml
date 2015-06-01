@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Match No="7" Version="178">
+  <Status>2</Status>
+  <TeamA Code="BUL">
+    <Score>3</Score>
+    <Set No="1">
+      <Score>33</Score>
+    </Set>
+    <Set No="2">
+      <Score>25</Score>
+    </Set>
+    <Set No="3">
+      <Score>25</Score>
+    </Set>
+  </TeamA>
+  <TeamB Code="ESP">
+    <Set No="1">
+      <Score>31</Score>
+    </Set>
+    <Set No="2">
+      <Score>19</Score>
+    </Set>
+    <Set No="3">
+      <Score>17</Score>
+    </Set>
+  </TeamB>
+  <Length Set1="34" Set2="25" Set3="23" />
+</Match>

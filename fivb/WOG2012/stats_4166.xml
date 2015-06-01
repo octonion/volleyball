@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Match No="32" Version="2">
+  <Length Set1="30" Set2="26" Set3="28" Set4="30" Set5="19" />
+  <TeamA Code="JPN">
+    <Captain>5</Captain>
+    <Score>3</Score>
+    <Set No="1">
+      <Score>28</Score>
+    </Set>
+    <Set No="2">
+      <Score>23</Score>
+    </Set>
+    <Set No="3">
+      <Score>25</Score>
+    </Set>
+    <Set No="4">
+      <Score>23</Score>
+    </Set>
+    <Set No="5">
+      <Score>18</Score>
+      <Statistics>
+        <Team />
+        <Player NoShirt="2" />
+        <Player NoShirt="3" />
+        <Player NoShirt="4" />
+        <Player NoShirt="5" />
+        <Player NoShirt="7" />
+        <Player NoShirt="8" />
+        <Player NoShirt="10" />
+        <Player NoShirt="11" />
+        <Player NoShirt="12" />
+        <Player NoShirt="14" />
+        <Player NoShirt="16" />
+        <Player />
+      </Statistics>
+    </Set>
+  </TeamA>
+  <TeamB Code="CHN">
+    <Captain>8</Captain>
+    <Score>2</Score>
+    <Set No="1">
+      <Score>26</Score>
+    </Set>
+    <Set No="2">
+      <Score>25</Score>
+    </Set>
+    <Set No="3">
+      <Score>23</Score>
+    </Set>
+    <Set No="4">
+      <Score>25</Score>
+    </Set>
+    <Set No="5">
+      <Score>16</Score>
+      <Statistics>
+        <Team />
+        <Player NoShirt="1" />
+        <Player NoShirt="2" />
+        <Player NoShirt="4" />
+        <Player NoShirt="6" />
+        <Player NoShirt="7" />
+        <Player NoShirt="8" />
+        <Player NoShirt="9" />
+        <Player NoShirt="10" />
+        <Player NoShirt="11" />
+        <Player NoShirt="12" />
+        <Player NoShirt="15" />
+        <Player />
+      </Statistics>
+    </Set>
+  </TeamB>
+</Match>

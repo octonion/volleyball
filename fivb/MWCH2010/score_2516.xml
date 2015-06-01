@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Match No="35" Version="238">
+  <Status>2</Status>
+  <TeamA Code="GER">
+    <Score>3</Score>
+    <Set No="1">
+      <Score>27</Score>
+    </Set>
+    <Set No="2">
+      <Score>25</Score>
+    </Set>
+    <Set No="3">
+      <Score>25</Score>
+    </Set>
+  </TeamA>
+  <TeamB Code="CAN">
+    <Score>0</Score>
+    <Set No="1">
+      <Score>25</Score>
+    </Set>
+    <Set No="2">
+      <Score>22</Score>
+    </Set>
+    <Set No="3">
+      <Score>20</Score>
+    </Set>
+  </TeamB>
+  <Length Set1="31" Set2="27" Set3="28" Set4="0" Set5="0" />
+</Match>

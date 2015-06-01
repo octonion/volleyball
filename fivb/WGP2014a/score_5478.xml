@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Match No="22" Version="169">
+  <TeamA Code="USA">
+    <Set No="5" />
+  </TeamA>
+  <TeamB Code="KOR">
+    <Set No="5" />
+  </TeamB>
+</Match>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Match No="15" Version="4">
+  <Length Set1="27" Set2="21" Set3="27" />
+  <TeamA Code="SRB">
+    <Captain>10</Captain>
+    <Set No="1">
+      <Score>20</Score>
+    </Set>
+    <Set No="2">
+      <Score>12</Score>
+    </Set>
+    <Set No="3">
+      <Score>21</Score>
+    </Set>
+    <Set No="5">
+      <Statistics>
+        <Team />
+        <Player NoShirt="2" />
+        <Player NoShirt="3" />
+        <Player NoShirt="4" />
+        <Player NoShirt="5" />
+        <Player NoShirt="7" />
+        <Player NoShirt="9" />
+        <Player NoShirt="10" />
+        <Player NoShirt="11" />
+        <Player NoShirt="16" />
+        <Player NoShirt="18" />
+        <Player NoShirt="19" />
+        <Player />
+      </Statistics>
+    </Set>
+  </TeamA>
+  <TeamB Code="TUR">
+    <Captain>12</Captain>
+    <Score>3</Score>
+    <Set No="1">
+      <Score>25</Score>
+    </Set>
+    <Set No="2">
+      <Score>25</Score>
+    </Set>
+    <Set No="3">
+      <Score>25</Score>
+    </Set>
+    <Set No="5">
+      <Statistics>
+        <Team />
+        <Player NoShirt="2" />
+        <Player NoShirt="3" />
+        <Player NoShirt="6" />
+        <Player NoShirt="8" />
+        <Player NoShirt="9" />
+        <Player NoShirt="10" />
+        <Player NoShirt="11" />
+        <Player NoShirt="12" />
+        <Player NoShirt="13" />
+        <Player NoShirt="14" />
+        <Player NoShirt="17" />
+        <Player />
+      </Statistics>
+    </Set>
+  </TeamB>
+</Match>

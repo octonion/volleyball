@@ -5,13 +5,11 @@ require 'open-uri'
 
 require 'json'
 
-year = ARGV[0]
+tournament_code = ARGV[0]
 
 base = "http://www.fivb.org/visweb6/xml_vlivescore.aspx?TournCode="
 
-schedule = JSON.parse(File.read("json/schedule_#{year}.json"))
-
-print "#{year}"
+schedule = JSON.parse(File.read("#{tournament_code}/schedule.json"))
 
 found = 0
 schedule["Matches"].each do |match|
@@ -25,7 +23,7 @@ schedule["Matches"].each do |match|
   if (match_date <= Date.today)
     url = "#{base}#{tournament_id}&Type=Stats&NoMatch=#{match_id}"
 
-    file_name = "xml/stats_#{year}_#{id}_#{match_id}.xml"
+    file_name = "#{tournament_code}/stats_#{id}.xml"
 
     open(file_name, 'wb') do |file|
       file << open(url).read
@@ -35,4 +33,4 @@ schedule["Matches"].each do |match|
   
 end
 
-print " - #{found}\n"
+print "Found #{found}\n"

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Match No="21" Version="332">
+  <Status>1</Status>
+  <TeamA Code="KOR">
+    <Score>1</Score>
+    <Set No="1">
+      <Score>25</Score>
+    </Set>
+    <Set No="2" />
+  </TeamA>
+  <TeamB Code="ITA">
+    <Set No="1">
+      <Score>23</Score>
+    </Set>
+  </TeamB>
+</Match>

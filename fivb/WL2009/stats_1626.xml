@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Match No="11" Version="240">
+  <Status>1</Status>
+  <TeamA Code="KOR" Serve="True">
+    <Captain>3</Captain>
+    <CurrentLineUp p1="16" p2="1" p3="18" p4="15" p5="4" p6="13" />
+    <Set No="1">
+      <Score>3</Score>
+      <Roster p1="4" p2="13" p3="16" p4="1" p5="18" p6="15" l2="5" />
+      <Statistics>
+        <Team TeamError="2" />
+        <Player NoShirt="1" AtkCont="1" BlkPoint="1" SetCont="1" />
+        <Player NoShirt="4" AtkPoint="1" BAtkPoint="1" SrvCont="2" />
+        <Player NoShirt="5" DigExcel="1" SetCont="1" RecExcel="2" />
+        <Player NoShirt="13" SrvCont="1" />
+        <Player NoShirt="15" DigExcel="1" SetExcel="2" />
+        <Player NoShirt="16" AtkPoint="1" AtkCont="1" BlkCont="1" SrvCont="1" />
+      </Statistics>
+    </Set>
+  </TeamA>
+  <TeamB Code="ARG">
+    <Captain>9</Captain>
+    <CurrentLineUp p1="14" p2="1" p3="6" p4="9" p5="10" p6="15" />
+    <Set No="1">
+      <Score>2</Score>
+      <Roster p1="14" p2="1" p3="6" p4="9" p5="10" p6="15" l2="17" />
+      <Statistics>
+        <Team />
+        <Player NoShirt="9" AtkFault="1" AtkCont="1" />
+        <Player NoShirt="14" RecCont="1" />
+        <Player NoShirt="15" SetCont="2" />
+      </Statistics>
+    </Set>
+  </TeamB>
+</Match>
