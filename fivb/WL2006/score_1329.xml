@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Match No="37" Version="95">
+  <Status>1</Status>
+  <TeamA Code="POR">
+    <Set No="1">
+      <Score>23</Score>
+    </Set>
+    <Set No="2">
+      <Score>20</Score>
+    </Set>
+    <Set No="3">
+      <Score>15</Score>
+    </Set>
+    <Set No="4">
+      <Score>23</Score>
+    </Set>
+  </TeamA>
+  <TeamB Code="BRA" Serve="True">
+    <Score>4</Score>
+    <Set No="1">
+      <Score>25</Score>
+    </Set>
+    <Set No="2">
+      <Score>25</Score>
+    </Set>
+    <Set No="3">
+      <Score>25</Score>
+    </Set>
+    <Set No="4">
+      <Score>25</Score>
+    </Set>
+  </TeamB>
+  <Length Set1="25" Set2="26" Set3="21" />
+</Match>

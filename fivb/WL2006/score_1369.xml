@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Match No="77" Version="153">
+  <Status>1</Status>
+  <TeamA Code="BUL" Serve="True">
+    <Score>2</Score>
+    <CurrentLineUp p1="1" p2="11" p3="17" p4="2" p5="3" p6="8" />
+    <Set No="1">
+      <Score>30</Score>
+    </Set>
+    <Set No="2">
+      <Score>25</Score>
+    </Set>
+    <Set No="3">
+      <Score>24</Score>
+    </Set>
+  </TeamA>
+  <TeamB Code="CUB">
+    <CurrentLineUp p1="4" p2="8" p3="18" p4="5" p5="17" p6="1" />
+    <Set No="1">
+      <Score>28</Score>
+    </Set>
+    <Set No="2">
+      <Score>19</Score>
+    </Set>
+    <Set No="3">
+      <Score>21</Score>
+    </Set>
+  </TeamB>
+  <Length Set1="30" Set2="24" />
+</Match>

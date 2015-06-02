@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Match No="35" Version="162">
+  <Status>2</Status>
+  <TeamA Code="FRA">
+    <Score>3</Score>
+    <Set No="1">
+      <Score>25</Score>
+    </Set>
+    <Set No="2">
+      <Score>19</Score>
+    </Set>
+    <Set No="3">
+      <Score>38</Score>
+    </Set>
+    <Set No="4">
+      <Score>25</Score>
+    </Set>
+  </TeamA>
+  <TeamB Code="USA">
+    <Score>1</Score>
+    <Set No="1">
+      <Score>22</Score>
+    </Set>
+    <Set No="2">
+      <Score>25</Score>
+    </Set>
+    <Set No="3">
+      <Score>36</Score>
+    </Set>
+    <Set No="4">
+      <Score>18</Score>
+    </Set>
+  </TeamB>
+  <Length Set1="30" Set2="25" Set3="42" Set4="24" />
+</Match>

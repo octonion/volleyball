@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Match No="98" Version="147">
+  <Status>2</Status>
+  <TeamA Code="FRA">
+    <Score>3</Score>
+    <CurrentLineUp p1="10" p2="8" p3="9" p4="17" p5="11" p6="7" />
+    <Set No="1">
+      <Score>25</Score>
+    </Set>
+    <Set No="2">
+      <Score>23</Score>
+    </Set>
+    <Set No="3">
+      <Score>23</Score>
+    </Set>
+    <Set No="4">
+      <Score>25</Score>
+    </Set>
+    <Set No="5">
+      <Score>15</Score>
+    </Set>
+  </TeamA>
+  <TeamB Code="ITA">
+    <Score>2</Score>
+    <CurrentLineUp p1="14" p2="7" p3="1" p4="5" p5="6" p6="10" />
+    <Set No="1">
+      <Score>18</Score>
+    </Set>
+    <Set No="2">
+      <Score>25</Score>
+    </Set>
+    <Set No="3">
+      <Score>25</Score>
+    </Set>
+    <Set No="4">
+      <Score>20</Score>
+    </Set>
+    <Set No="5">
+      <Score>11</Score>
+    </Set>
+  </TeamB>
+</Match>

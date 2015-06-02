@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Match No="6" Version="2">
+  <Length Set1="23" Set2="23" Set3="25" Set4="22" />
+  <TeamA Code="JPN">
+    <Captain>3</Captain>
+    <Score>1</Score>
+    <Set No="1">
+      <Score>20</Score>
+    </Set>
+    <Set No="2">
+      <Score>25</Score>
+    </Set>
+    <Set No="3">
+      <Score>19</Score>
+    </Set>
+    <Set No="4">
+      <Score>21</Score>
+    </Set>
+  </TeamA>
+  <TeamB Code="USA">
+    <Captain>11</Captain>
+    <Score>3</Score>
+    <Set No="1">
+      <Score>25</Score>
+    </Set>
+    <Set No="2">
+      <Score>20</Score>
+    </Set>
+    <Set No="3">
+      <Score>25</Score>
+    </Set>
+    <Set No="4">
+      <Score>25</Score>
+    </Set>
+  </TeamB>
+</Match>
