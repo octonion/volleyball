@@ -10,7 +10,7 @@ path = '//select/option[position()>1]'
 
 #path = '/html/body/div/div[2]/div/form/table/tr/td[1]/select/option[position()>1]'
 
-year = 2014
+year = ARGV[0].to_i
 
 url = "http://www.fivb.org/EN/volleyball/competitions/WorldLeague/#{year}/Matchinfo.asp"
 
