@@ -8,9 +8,9 @@ require 'json'
 year = ARGV[0].to_i
 groups = ARGV[1].to_i
 
-group_url = "http://worldleague.#{year}.fivb.com/en/api/volley/matches/WL#{year}-"
+group_url = "http://www.fivb.com/en/api/volley/matches/WL#{year}-"
 
-full_url = "http://worldleague.#{year}.fivb.com/en/api/volley/matches/0/en"
+full_url = "http://www.fivb.com/en/api/volley/matches/0/en"
 
 file_name = "json/schedule_#{year}.json"
 

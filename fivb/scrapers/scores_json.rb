@@ -7,7 +7,11 @@ require 'json'
 
 tournament_code = ARGV[0]
 
-base = "http://www.fivb.org/visweb6/xml_vlivescore.aspx?TournCode="
+year = ARGV[1]
+
+base = "http://www.fivb.com/en/api/volley/matches"
+#base = "http://worldleague.#{year}.fivb.com/en/api/volley/matches"
+#/WL2015-1/en/live/5869
 
 schedule = JSON.parse(File.read("#{tournament_code}/schedule.json"))
 
@@ -21,12 +25,12 @@ schedule["Matches"].each do |match|
   match_date = Date.strptime(match_date, '%Y-%m-%d')
 
   if (match_date <= Date.today)
-    url = "#{base}#{tournament_id}&Type=Score&NoMatch=#{match_id}"
+    url = "#{base}/#{tournament_id}/en/live/#{match_id}"
 
-    file_name = "#{tournament_code}/score_#{id}.xml"
+    file_name = "#{tournament_code}/score_#{id}.json"
 
     open(file_name, 'wb') do |file|
-      file << open(url).read
+      file << JSON.parse(open(url).read).to_json
     end
     found += 1
   end
