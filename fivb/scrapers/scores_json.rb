@@ -25,7 +25,7 @@ schedule["Matches"].each do |match|
   match_date = Date.strptime(match_date, '%Y-%m-%d')
 
   if (match_date <= Date.today)
-    url = "#{base}/#{tournament_id}/en/live/#{match_id}"
+    url = "#{base}/#{tournament_id}/en/live/#{id}"
 
     file_name = "#{tournament_code}/score_#{id}.json"
 
